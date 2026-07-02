@@ -1,5 +1,5 @@
 <!-- Header -->
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=본인이름&fontAlign=30&fontSize=30&textBg=true&desc=Problem%20Solving%20Developer&descAlign=60&descAlignY=50)
+![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=박기태&fontAlign=30&fontSize=30&textBg=true&desc=Problem%20Solving%20Developer&descAlign=60&descAlignY=50)
 
 ---
 
